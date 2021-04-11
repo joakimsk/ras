@@ -3,6 +3,9 @@
 [Sizing biofilter](http://biofilters.com/websize.htm)
 Flow through a submerged filter should always be turbulent, and even, to ensure oxygen to all bacteria.
 
+## Types of biofilters
+
+
 ## Biofilter media overview
 Selecting a media needs attention to various qualities that you may want. Density, available space etc.
 

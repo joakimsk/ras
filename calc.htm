@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Calculator</h1>
+
+<form id="frm1" action="">
+  TAN: <input id="tan" type="text" name="fname" value="3"><br>
+  Free ammonia: <input id="free_ammonia" type="text" name="lname" value="0.172"><br>
+  Factor: <input id="factor" type="text" name="lname" value="0.05733333333"><br>
+</form> 
+
+<button type="button" onclick="myFunction(3,4)">Calculate</button>
+<br>
+<p>Free Ammonia Result:</p>
+<p id="free_ammonia_result"></p>
+<p>Total Ammonia Result:</p>
+<p id="total_ammonia_result"></p>
+<p>Factor Result:</p>
+<p id="factor_result"></p>
+
+<script>
+function myFunction(a, b) {
+
+  var tan = document.getElementById("tan").value;
+  var factor = document.getElementById("factor").value;
+  var free_ammonia = document.getElementById("free_ammonia").value;
+  document.getElementById('free_ammonia_result').innerHTML = (tan * factor).toFixed(4);
+  document.getElementById('total_ammonia_result').innerHTML = (free_ammonia / factor).toFixed(4);
+  document.getElementById('factor_result').innerHTML = (free_ammonia / tan).toFixed(4);
+  return a * b;             // Function returns the product of a and b
+}
+</script>
+</body>
+</html> 
