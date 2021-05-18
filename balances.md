@@ -3,8 +3,10 @@
 Water chemistry balances
 
 ## Sulphur cycle
+Todo
 
 ## Iron cycle
+Todo
 
 ## Carbon cycle
 
@@ -15,12 +17,16 @@ Read more [here](https://www.iaea.org/sites/default/files/18/07/oa-chemistry-dic
 ![Carbonate system balance](https://upload.wikimedia.org/wikipedia/commons/9/93/Carbonate_system_of_seawater.svg)
 
 ## Phosphorous cycle
+Todo
 
 ## Calcium cycle
+Todo
 
 ## Silicon cycle
+Todo
 
 ## Nitrogen cycle
+Todo
 
 ### Free ammonia vs ammonium
 See ![table](https://images.thefishsite.com/fish/legacy/files/articles/old/06-08UFloridaAmmon4.gif)

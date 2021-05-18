@@ -1,10 +1,26 @@
 # Biofilter
 
+The biofilter provides surface area for bacteria who consume ammonia and nitrite, eventually turning it into nitrate. An important component in any recirculating system.
+
+Maturation of the biofilter takes up to three months, depending on temperature and feed rate. It is better animal welfare to cycle without live animals in the tank, by dosing ammonia (and sodium nitrite if you want to speed up the process).
+
+Maturation happens around a set temperature, so try to not establish the biofilter far away from operating temperature. If you plan to run the system at 6 degree Celsius, try to not let the temperature go above 8 degree Celsius during maturation. Different species of bacteria thrive in different temperatures.
+
+The biofilter consumes quite a bit of oxygen, I think up to 60% of a total system consumption, so expect outlet water to be oxygen deprived. Make sure there is enough oxygen to avoid anaerobic bacteria to thrive. I will find sources for this one day. Todo.
+
 [Sizing biofilter](http://biofilters.com/websize.htm)
 Flow through a submerged filter should always be turbulent, and even, to ensure oxygen to all bacteria.
 
 ## Types of biofilters
+Many variants of the biofilter exists. Some are only for bacteria to grow on, while others serve other purposes, such as mechanical filtration.
 
+### Sand filter
+
+### Moving bed bioreactor
+Often uses Kaldnes K1 or similar plastic media, constantly moving.
+
+### Fixed bed bioreactor
+Todo
 
 ## Biofilter media overview
 Selecting a media needs attention to various qualities that you may want. Density, available space etc.
